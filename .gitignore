@@ -20,3 +20,9 @@ dist/
 target/
 Cargo.lock
 .vscode/
+*.vcxproj
+*.filters
+bin
+bin-int
+/include
+/src
