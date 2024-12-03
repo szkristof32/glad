@@ -9,16 +9,8 @@ project "Glad"
     files
     {
         "src/gl.c",
-        "src/egl.c",
-        "src/gles1.c",
-        "src/gles2.c",
-
         "include/glad/gl.h",
-        "include/glad/egl.h",
-        "include/glad/gles1.h",
-        "include/glad/gles2.h",
 
-        "include/EGL/*.h",
         "include/KHR/*.h"
     }
 
